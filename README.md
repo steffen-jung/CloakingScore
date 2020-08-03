@@ -4,7 +4,14 @@ Official implementation of the CloakingScore suggested in our paper: TDA
 
 # Dependencies
 
-TBA
+Tested on Python 3.8
+<ul>
+  <li>numpy 1.18.5</li>
+  <li>matplotlib 3.2.2</li>
+  <li>tqdm 4.46.1</li>
+  <li>pytorch 1.5.1</li>
+  <li>torchvision 0.6.1</li>
+</ul>
 
 # Usage
 
